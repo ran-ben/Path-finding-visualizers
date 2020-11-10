@@ -13,9 +13,9 @@ Each folder contains a visualizer that implements a specific *Uninformed Search 
 
 Here is an exemple of a path visualization using Breadth-first search algorithm
 
-* The red bloc is the starting node (it can be moved using keybord arrows)
-* The green bloc is the targeted node.
-* The yellow path is one of the shortest possible paths (except for Depth-first search algorithm which may not generate the shortest path).
-* Orange blocs are the visited nodes.
+* The red block represents the starting node (it can be moved using keybord arrows)
+* The green block represents the targeted node.
+* The path in yellow represents one of the shortest possible paths (except for Depth-first search algorithm which may not generate the shortest path).
+* Orange blocks are the visited nodes.
 
 ![Breadth-first-visualizer](/algorithmeLargeurDab/exemple.png)
