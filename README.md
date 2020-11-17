@@ -1,7 +1,7 @@
 # Path finding visualizers
  Here are some path finding visualizers created with Processing 3
 
-## General information
+## Description
 Each folder contains a visualizer that implements a specific **Uninformed Search Algorithm**
 
 1. Uniform-cost search algorithm
